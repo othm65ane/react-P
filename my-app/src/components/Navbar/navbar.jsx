@@ -12,8 +12,8 @@ const navbar = () => {
        <div className='flex flex-shrink-0 items-center'>
         <h1 className='text-[30px] font-bold'>Oc</h1>
        </div>
-       <div className='text-[20px] m-8 flex items-center justify-center gap-4 text-2xl'>
-       <FaLinkedin />
+       <div className='text-[20px] m-8 flex items-center justify-center gap-4 text-2xl '>
+       <FaLinkedin href='https://www.instagram.com/0thman8_/' className='pointer'/>
        <FaGithub />
        <FaInstagram/>
 
